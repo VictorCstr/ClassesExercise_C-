@@ -1,0 +1,15 @@
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.csproj.AssemblyReference.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.AssemblyInfoInputs.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.AssemblyInfo.cs
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\bin\Debug\net7.0\TerceiraParte.exe
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\bin\Debug\net7.0\TerceiraParte.deps.json
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\bin\Debug\net7.0\TerceiraParte.runtimeconfig.json
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\bin\Debug\net7.0\TerceiraParte.dll
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\bin\Debug\net7.0\TerceiraParte.pdb
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.dll
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\refint\TerceiraParte.dll
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.pdb
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\TerceiraParte.genruntimeconfig.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\Dev\C#\TerceiraParte\obj\Debug\net7.0\ref\TerceiraParte.dll
